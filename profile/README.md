@@ -1,7 +1,7 @@
-Finance analytics engineering for teams that want their numbers fast — and under control.
+Finance analytics engineering for CFOs and FP&A teams who want their numbers fast and under control.
 
-Omora Labs builds automated finance systems that replace spreadsheets with code, so CFOs and FP&A teams get reliable numbers in minutes, not weeks.
+Omora Labs builds production-grade, code-based finance systems that replace spreadsheets and black-box FP&A tools, so finance teams get reliable numbers in minutes, not weeks.
 
 Built on your existing data infrastructure.
-Full code ownership.
+Full code and infrastructure ownership.
 Zero vendor lock-in.
